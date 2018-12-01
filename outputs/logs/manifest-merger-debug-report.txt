@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\06c2204bd6501bde0da7aba0b2efc710\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\81cf98238de90c437218a33b59be4a9f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7a45bd85e1d624161cee8b0b73d75d97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d7b2a8010cb7158cc38d1715aae943\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f91a4ff6d8595cdf9eb85a61d833c42e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f28bef081faefc30e8e86a8103d62b50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e76370af339baa9e8aac1d8b3ed3e0c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22f092241e30ae732d879a259ef8e2cc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a101543ed27445e7059a9cc5532420e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3aa7590a9c1c4e6c1606601ea7946eb0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7fe8c6e9a47a3a1252255a7b54dd6a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\81c32d629b92f2a0cb329d55a4829307\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4329a374e354210c80b02cd4fa147eb6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\81cf98238de90c437218a33b59be4a9f\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\81cf98238de90c437218a33b59be4a9f\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22f092241e30ae732d879a259ef8e2cc\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22f092241e30ae732d879a259ef8e2cc\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.codepath.debuggingchallenges.activities.MainActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:13:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.codepath.debuggingchallenges.activities.CurrentDayActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:20:19-64
+activity#com.codepath.debuggingchallenges.activities.MoviesActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:21:19-60
+activity#com.codepath.debuggingchallenges.activities.ChangeBackgroundActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:22:9-73
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:22:19-70
+activity#com.codepath.debuggingchallenges.activities.ToolbarActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:23:9-25:58
+	android:theme
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:24:13-55
+activity#com.codepath.debuggingchallenges.activities.SearchHistoryActivity
+ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:26:9-79
+	android:name
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml:26:19-67
+uses-sdk
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\06c2204bd6501bde0da7aba0b2efc710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\06c2204bd6501bde0da7aba0b2efc710\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\81cf98238de90c437218a33b59be4a9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\81cf98238de90c437218a33b59be4a9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7a45bd85e1d624161cee8b0b73d75d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7a45bd85e1d624161cee8b0b73d75d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d7b2a8010cb7158cc38d1715aae943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d7b2a8010cb7158cc38d1715aae943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f91a4ff6d8595cdf9eb85a61d833c42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f91a4ff6d8595cdf9eb85a61d833c42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f28bef081faefc30e8e86a8103d62b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f28bef081faefc30e8e86a8103d62b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e76370af339baa9e8aac1d8b3ed3e0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e76370af339baa9e8aac1d8b3ed3e0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22f092241e30ae732d879a259ef8e2cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22f092241e30ae732d879a259ef8e2cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a101543ed27445e7059a9cc5532420e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a101543ed27445e7059a9cc5532420e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3aa7590a9c1c4e6c1606601ea7946eb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3aa7590a9c1c4e6c1606601ea7946eb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7fe8c6e9a47a3a1252255a7b54dd6a8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7fe8c6e9a47a3a1252255a7b54dd6a8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\81c32d629b92f2a0cb329d55a4829307\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\81c32d629b92f2a0cb329d55a4829307\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4329a374e354210c80b02cd4fa147eb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\spong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4329a374e354210c80b02cd4fa147eb6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spong\Documents\DebugLab\app\src\main\AndroidManifest.xml
